@@ -27,4 +27,6 @@ Run the code by simply navigating to the folder and running the following comman
 The code will output the best fitness value for all generations for the given problem. In the end, the graph is plotted for comparison of the textbook version and the improved version. The part for the average performance for multiple runs of the algorithms is commented part in both the functions. The part could be uncommented to analyse the average performance of the algorithms.
 
 
-Note:- Contact at agarwalrohan189@gmail.com for any clarifications or discussion on some more improvement ideas.  
+Note:- The Textbook version of the algorithm being talked about in the report comes from the book titled 'Artificial Intelligence A Modern Approach, Third Edition' by 'Stuart J. Russell' and 'Peter Norvig'. The pdf can be found easily on the internet.
+
+Contact at agarwalrohan189@gmail.com for any clarifications or discussion on some more improvement ideas.  

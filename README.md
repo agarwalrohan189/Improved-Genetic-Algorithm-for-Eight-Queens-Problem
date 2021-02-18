@@ -5,11 +5,12 @@
 The repository contains two files:-
 
     1. Genetic_Algo.py: This file contains the complete python code which can we used to run both 
-    the naive and the improved version of the Genetic Algorithm for the Eight Queens Problem
+       the naive and the improved version of the Genetic Algorithm for the Eight Queens Problem.
     
 
     2. Report.pdf: This file contains a brief introduction about the problem, implemenataion details
-    and the improvements along with the possible reasons. It also contains a short ananlysis of the results obtained.
+       and the improvements along with the possible reasons. It also contains a short ananlysis 
+       of the results obtained.
 
 ## Execution Details:-
 

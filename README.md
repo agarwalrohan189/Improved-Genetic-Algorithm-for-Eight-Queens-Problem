@@ -12,8 +12,8 @@ Execution Details:-
 
 The code requires the following libraries to be installed. Please run the following snippet in the terminal if not already installed.
 
-> > > pip3 install numpy
-> > > pip3 install matplotlib
+>>>pip3 install numpy
+>>>pip3 install matplotlib
 
 Run the code by simply navigating to the folder and running the following command:-
 
